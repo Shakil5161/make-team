@@ -1,0 +1,8 @@
+.players{
+    background-color: #F3F5F9;
+    display: flex;
+}
+.player-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}

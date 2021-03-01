@@ -1,0 +1,14 @@
+.player{
+    padding: 20px;
+}    
+.box-shadow{
+    box-shadow: 2px 2px 20px gray;
+    color: lightslategrey;
+}
+.box-shadow h5{
+    color: #6047EC;
+}
+.box-shadow button{
+    background-color: #6047EC;
+    color: white;
+}

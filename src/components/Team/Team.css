@@ -1,0 +1,12 @@
+.team{
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: white;
+    color:lightslategrey;
+    font-weight: 500;
+}
+.team h3{
+    color:#6047EC;
+    font-weight: bold;
+}
