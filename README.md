@@ -5,6 +5,7 @@ Code Link: https://github.com/Shakil5161/make-team
 Using 
 1. HTML, CSS, JS
 2. Fake Data 
+3. Netlify
 And More....
 
 Features:
