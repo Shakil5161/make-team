@@ -11,7 +11,7 @@ And More....
 Features:
 
 1. Create Own Team
-2. Calculate Teme Cost 
+2. Calculate Team Cost 
 
 
 Contact Me: Phone: 01641969790
